@@ -1,3 +1,7 @@
+# Givv App Front End
+
+This project was presented at the AIS Servicehack Hackathon 2017. The project took 2nd place.
+
 # AngularSrc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
